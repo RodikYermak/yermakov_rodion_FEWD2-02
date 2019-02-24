@@ -1,0 +1,38 @@
+/*
+	font-family: 'Freckle Face', cursive;
+*/
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+header, footer, nav {
+	background-color: #7bb8a5;
+}
+
+body, hr {
+/*	background-color: #42413C;*/
+}
+
+.active {
+	background-color: #9ed3c2;
+}
+
+aside {
+	background-color: #3B8686;
+}
+
+aside
+
+body {
+	color: #333;
+}
+
+aside {
+	color: #fff;
+}
+
+h1, h2 {
+	font-family: 'Freckle Face', cursive; 
+}
